@@ -1,5 +1,4 @@
-#include "stdio-riescent.h"
-#include "random-riescent.h"
+#include "c-tools.h"
 
 int get_max(void)
 {
